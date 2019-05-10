@@ -1,5 +1,3 @@
-
-
 # CSS Graffiti Override
 
 In this lab, you are asked to clean the graffiti tags off the wall by making use of in browser developer tools and writing selectors that are more specific (have greater authority) in order to override the existing styles.
